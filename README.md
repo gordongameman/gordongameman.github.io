@@ -1,2 +1,2 @@
 # gordongameman.github.io
-A blog for game modding.
+A blog for GTA 3D era modding.
